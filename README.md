@@ -18,4 +18,5 @@ The course begins by assessing different skills.
   - **Capacity for Faces and Names**
 <img align="right" width=100px alt="Brain Icon" src="brain (1).svg" />
 </p>
+
 ---
