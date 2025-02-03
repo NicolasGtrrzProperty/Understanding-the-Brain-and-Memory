@@ -9,14 +9,16 @@ This course provides a comprehensive introduction to the brain's structure and f
 
 The course begins by assessing different skills.
 
-# General Capacities
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" /> </p>
+<img align="right" width=100px alt="Brain" src="brain (1).svg" />
 
-<p align="left">
-  - **Association Capacity**<br>
-  - **Linking Capacity**<br>
-  - **Numerical Capacity**<br>
-  - **Capacity for Faces and Names**
-<img align="right" width=100px alt="Brain Icon" src="brain (1).svg" />
-</p>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***General Capacities***
+
+- **Association Capacity**  
+- **Linking Capacity**  
+- **Numerical Capacity**  
+- **Capacity for Faces and Names**  
+
+<br><br><br><br>
 
 ---
