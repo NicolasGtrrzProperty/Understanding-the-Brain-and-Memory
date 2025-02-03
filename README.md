@@ -11,13 +11,14 @@ The course begins by assessing different skills.
 
 # General Capacities
 <br>
-<img align="right" width=150px alt="Brain" style="padding-right: 20px;" src="brain (1).svg" />
+<img align="right" width=150px alt="Brain" style="padding-right: 200px;" src="brain (1).svg" />
 
 - **Association Capacity**  
 - **Linking Capacity**  
 - **Numerical Capacity**  
 - **Capacity for Faces and Names**  
 <br>
+
 #
 
 ---
