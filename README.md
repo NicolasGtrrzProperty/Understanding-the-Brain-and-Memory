@@ -11,15 +11,17 @@ The course begins by assessing different skills.
 
 # General Capacities
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    - **Association Capacity**<br>
-    - **Linking Capacity**<br>
-    - **Numerical Capacity**<br>
-    - **Capacity for Faces and Names**
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="brain (1).svg" alt="brain" width="50">
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="text-align: left;">
+      - **Association Capacity**<br>
+      - **Linking Capacity**<br>
+      - **Numerical Capacity**<br>
+      - **Capacity for Faces and Names**
+    </div>
+    <div style="margin-left: 20px;">
+      <img src="brain (1).svg" alt="Brain Icon" width="50">
+    </div>
   </div>
 </div>
 
