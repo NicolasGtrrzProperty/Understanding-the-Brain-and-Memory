@@ -6,10 +6,14 @@ This course provides a comprehensive introduction to the brain's structure and f
 ---
 
 ### **Class 1 - Initial Evaluation Summary**
-- **Memory Recall:** 19/20 (95%). Missed: "Engraving".  
-- **Word-Number Association:** 10/10 (both tasks).  
-- **Names & Faces:** 7/10.  
-- **Total Score:** 55/60 (91.7%).  
-- **Dates:** 15-11-2024 (Recall), 18-11-2024 (Tasks).  
+
+The course begins by assessing different skills.
+
+# General Capacities
+
+- **Association Capacity**
+- **Linking Capacity** 
+- **Numerical Capacity**  
+- **Capacity for Faces and Names**  
 
 ---
