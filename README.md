@@ -10,7 +10,7 @@ This course provides a comprehensive introduction to the brain's structure and f
 The course begins by assessing different skills.
 
 # General Capacities
-
+<br><br>
 <img align="right" width=150px alt="Brain" src="brain (1).svg" />
 
 - **Association Capacity**  
