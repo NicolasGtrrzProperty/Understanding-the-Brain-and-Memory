@@ -16,7 +16,6 @@ The course begins by assessing different skills.
   - **Linking Capacity**<br>
   - **Numerical Capacity**<br>
   - **Capacity for Faces and Names**
-</p>
 <img align="right" width=100px alt="Brain Icon" src="brain (1).svg" />
-
+</p>
 ---
