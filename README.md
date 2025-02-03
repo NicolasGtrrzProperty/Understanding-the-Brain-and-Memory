@@ -10,7 +10,7 @@ This course provides a comprehensive introduction to the brain's structure and f
 The course begins by assessing different skills.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="tu-usuario" /> </p>
-<img align="right" width=100px alt="Brain" src="brain (1).svg" />
+<img align="right" width=40px alt="Brain" src="brain (1).svg" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***General Capacities***
 
