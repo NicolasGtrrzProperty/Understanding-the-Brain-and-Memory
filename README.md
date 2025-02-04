@@ -11,19 +11,7 @@ The course begins by assessing different skills.
 
 # General Capacities
 
-<<<<<<< HEAD
-<ul>
-    <li> Association Capacity </li>
-</ul>
-
-
-- **Association Capacity**
-- **Linking Capacity**
-- **Numerical Capacity**
-- **Capacity for Faces and Names**
-=======
 <img align="right" width=130px alt="Brain" hspace="280" src="brain (1).svg" />
->>>>>>> c9bb385b8d59f84a75c54d284a9bbe44c53ab076
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Association Capacity**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Linking Capacity**  
