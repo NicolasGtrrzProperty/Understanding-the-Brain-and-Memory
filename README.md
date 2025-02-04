@@ -25,7 +25,10 @@ The course begins by assessing different skills.
 #
 
 ---
-## 📌 **Class 2 - Memory and Rhythm** 🧠
+---
+📌 **Class 2 - Memory and Rhythm** 🧠
+---
+---
 
 ### 🔎 **Key Concepts**
 
@@ -39,8 +42,6 @@ The course begins by assessing different skills.
 - Assessment of memory recall based on word positions in a list.
 - Identifies memory trends (beginning, end, and repetition effects).
 
----
-
 ### 📖 **The Six Principles of Memory**  
 
 1️⃣ **Primacy Principle:** We remember the first things we learn better.  
@@ -51,8 +52,6 @@ The course begins by assessing different skills.
 6️⃣ **Chain Principle:** Events linked together are easier to recall.  
 
 ✅ **Key to improving memory:** Strengthen **Principles 3, 5, and 6**.
-
----
 
 ### ⏳ **Optimizing Learning**  
 
@@ -70,21 +69,18 @@ The course begins by assessing different skills.
 🔹 **The importance of repeated recall**  
    - Moves information from **short-term memory** to **long-term memory**.
 
----
 
 ### 🛠 **Memory Techniques and Systems**  
 
 🔹 **Techniques:** Practical methods developed through experience to improve retention.  
 🔹 **Systems:** Structured combinations of techniques to optimize memory.  
 
----
 
 ### 🎯 **Conclusion**  
 ✔ Memory can be **trained and improved** with the right techniques.  
 ✔ **Spaced repetition and structured study** are key to retention.  
 ✔ **Balancing memory and understanding** enhances learning efficiency.  
 
----
 
 📢 **Final Tip!**  
 📚 **Regular reviews significantly improve long-term knowledge retention.** 🔄✨
