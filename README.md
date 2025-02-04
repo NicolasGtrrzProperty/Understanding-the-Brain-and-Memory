@@ -10,9 +10,8 @@ This course provides a comprehensive introduction to the brain's structure and f
 The course begins by assessing different skills.
 
 # General Capacities
-<br>
-<img align="right" width=150px alt="Brain" hspace="200" src="brain (1).svg" />
 
+<<<<<<< HEAD
 <ul>
     <li> Association Capacity </li>
 </ul>
@@ -22,8 +21,14 @@ The course begins by assessing different skills.
 - **Linking Capacity**
 - **Numerical Capacity**
 - **Capacity for Faces and Names**
+=======
+<img align="right" width=130px alt="Brain" hspace="280" src="brain (1).svg" />
+>>>>>>> c9bb385b8d59f84a75c54d284a9bbe44c53ab076
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Association Capacity**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Linking Capacity**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Numerical Capacity**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Capacity for Faces and Names**
 
 #
 
