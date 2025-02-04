@@ -17,7 +17,7 @@ This course provides a comprehensive introduction to the brain's structure and f
 
 <div align="center">
   
-  <h1>📌 Class 1 - Initial Evaluation Summary 🧠</h1>
+  <h1>📌 Class 1: Initial Evaluation Summary 🧠</h1>
 
 </div>
 
@@ -42,7 +42,7 @@ The course begins by assessing different skills.
 
 <div align="center">
   
-<h1>📌 Class 2 - Memory and Rhythm 🧠</h1>
+<h1>📌 Class 2: Memory and Rhythm 🧠</h1>
 
 </div>
 
