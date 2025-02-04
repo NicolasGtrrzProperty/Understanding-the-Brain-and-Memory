@@ -5,7 +5,7 @@ This course provides a comprehensive introduction to the brain's structure and f
 
 ---
 
-## 📌 **Class 1 - Initial Evaluation Summary** 🧠
+## 📌 **Class 1 - Initial Evaluation Summary** 🧠 ##
 
 The course begins by assessing different skills.
 
