@@ -13,7 +13,7 @@ The course begins by assessing different skills.
 <br>
 <img align="right" width=150px alt="Brain" hspace="200" src="brain (1).svg" />
 
-<div style="margin-left: 50px;">
+<div style="style="padding-left: 30px;">
 
 - **Association Capacity**
 - **Linking Capacity**
