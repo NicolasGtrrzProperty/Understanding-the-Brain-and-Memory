@@ -28,8 +28,8 @@ The course begins by assessing different skills.
 #### 🧠 **Evocation (Memory Recall)**
 - **Definition:** The process of bringing unconscious memories into conscious awareness.
 - **Two Forms:**
-  1️⃣ **During learning** (while receiving the information).  
-  2️⃣ **After learning** (retrieving information later).
+  - 1️⃣ **During learning** (while receiving the information).  
+  - 2️⃣ **After learning** (retrieving information later).
 
 #### 📊 **Evocation Exercise**
 - Assessment of memory recall based on word positions in a list.
