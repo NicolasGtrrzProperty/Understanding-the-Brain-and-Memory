@@ -15,7 +15,11 @@ This course provides a comprehensive introduction to the brain's structure and f
 ---
 ---
 
+<div align="center">
+
 📌 **Class 1 - Initial Evaluation Summary** 🧠
+
+</div>
 
 ---
 ---
