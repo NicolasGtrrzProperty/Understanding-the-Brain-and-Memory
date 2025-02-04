@@ -57,7 +57,7 @@ The course begins by assessing different skills.
   - 1️⃣ **During learning** (while receiving the information).  
   - 2️⃣ **After learning** (retrieving information later).
 
-#### 📊 **Evocation Exercise**
+# 📊 Evocation Exercise
 - Assessment of memory recall based on word positions in a list.
 - Identifies memory trends (beginning, end, and repetition effects).
 
