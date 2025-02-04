@@ -25,6 +25,12 @@ The course begins by assessing different skills.
   <li>**Capacity for Faces and Names**</li>
 </ul>
 
+<ul style="padding-left: 80px;">
+  <li><b>Association Capacity</b></li>
+  <li><b>Linking Capacity</b></li>
+  <li><b>Numerical Capacity</b></li>
+  <li><b>Capacity for Faces and Names</b></li>
+</ul>
 <br>
 
 #
