@@ -49,7 +49,7 @@ The course begins by assessing different skills.
 ---
 ---
 
-### 🔎 **Key Concepts**
+# Key Concepts
 
 #### 🧠 **Evocation (Memory Recall)**
 - **Definition:** The process of bringing unconscious memories into conscious awareness.
