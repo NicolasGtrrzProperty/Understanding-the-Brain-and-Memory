@@ -18,7 +18,9 @@ The course begins by assessing different skills.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Numerical Capacity**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Capacity for Faces and Names**
 
-<p style="margin-right: 200px;">Este es un párrafo.</p>
+<ul>
+  <li style="margin-bottom: 10px;">Elemento 1</li>
+  <li>Elemento 2</li>
 
 <br>
 
