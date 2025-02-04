@@ -18,19 +18,7 @@ The course begins by assessing different skills.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Numerical Capacity**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Capacity for Faces and Names**
 
-<ul style="margin-left: 50px;">
-  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><b>Association Capacity</b></li></p>
-  <li>**Linking Capacity**</li>
-  <li>**Numerical Capacity**</li>
-  <li>**Capacity for Faces and Names**</li>
-</ul>
-
-<ul style="list-style-position: outside;">
-  <li style="margin-left: 50px;"><b>Association Capacity</b></li>
-  <li style="margin-left: 50px;"><b>Linking Capacity</b></li>
-  <li style="margin-left: 50px;"><b>Numerical Capacity</b></li>
-  <li style="margin-left: 50px;"><b>Capacity for Faces and Names</b></li>
-</ul>
+<p style="margin-right: 20px;">Este es un párrafo.</p>
 
 <br>
 
