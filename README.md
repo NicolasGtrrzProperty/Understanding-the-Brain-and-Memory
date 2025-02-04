@@ -18,6 +18,13 @@ The course begins by assessing different skills.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Numerical Capacity**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Capacity for Faces and Names**
 
+<ul style="margin-left: 50px;">
+  <li>**Association Capacity**</li>
+  <li>**Linking Capacity**</li>
+  <li>**Numerical Capacity**</li>
+  <li>**Capacity for Faces and Names**</li>
+</ul>
+
 <br>
 
 #
