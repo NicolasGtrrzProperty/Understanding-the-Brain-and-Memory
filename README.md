@@ -14,7 +14,7 @@ The course begins by assessing different skills.
 <img align="right" width=150px alt="Brain" hspace="200" src="brain (1).svg" />
 
 <ul>
-    <li><p><p><pre> Association Capacity </pre></p></li>
+    <li><p><p> Association Capacity</p></li>
 </ul>
 
 - **Association Capacity**
