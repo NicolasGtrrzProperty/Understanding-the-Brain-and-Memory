@@ -26,7 +26,9 @@ The course begins by assessing different skills.
 
 ---
 ---
+
 📌 **Class 2 - Memory and Rhythm** 🧠
+
 ---
 ---
 
