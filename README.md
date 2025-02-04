@@ -19,7 +19,7 @@ The course begins by assessing different skills.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Capacity for Faces and Names**
 
 <ul>
-  <li style="margin-bottom: 100px;">Elemento 1</li>
+  <li style="margin-bottom: 100%;">Elemento 1</li>
   <li>Elemento 2</li>
 
 <br>
