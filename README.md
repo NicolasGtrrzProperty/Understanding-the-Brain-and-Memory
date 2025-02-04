@@ -11,7 +11,7 @@ The course begins by assessing different skills.
 
 # General Capacities
 
-<img align="right" width=130px alt="Brain" hspace="270" src="brain (1).svg" />
+<img align="right" width="130px" alt="Brain" hspace="50" src="brain (1).svg" />
 
 - **🧩 Association Capacity**  
 - **🔗 Linking Capacity**  
