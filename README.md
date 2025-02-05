@@ -63,6 +63,8 @@ The course begins by assessing different skills.
 
 # The Six Principles of Memory 📖
 
+<img align="right" width="130px" alt="bright" hspace="50" src="bright.svg" />
+
 1️⃣ **Primacy Principle:** We remember the first things we learn better.  
 2️⃣ **Recency Principle:** We retain the most recent information more easily.  
 3️⃣ **Association Principle:** We recall better when information is linked.  
