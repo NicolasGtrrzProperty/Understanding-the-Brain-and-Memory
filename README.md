@@ -52,7 +52,7 @@ The course begins by assessing different skills.
 # Key Concepts
 
 #### 🧠 **Evocation (Memory Recall)**
-- **Definition:** The process of bringing unconscious memories into conscious awareness.
+The process of bringing unconscious memories into conscious awareness.
 - **Two Forms:**
   - 1️⃣ **During learning** (while receiving the information).  
   - 2️⃣ **After learning** (retrieving information later).
@@ -103,3 +103,82 @@ The course begins by assessing different skills.
 ✔ Memory can be **trained and improved** with the right techniques.  
 ✔ **Spaced repetition and structured study** are key to retention.  
 ✔ **Balancing memory and understanding** enhances learning efficiency.  
+
+---
+---
+
+<div align="center">
+  
+<h1>📌 Class 3: The 12 Memory Techniques 📚🧠</h1>
+
+</div>
+
+---
+--- 
+
+## 🧠 Main Topic  
+Explores key memory principles, effective association techniques, and strategies to improve information retention.  
+
+---
+
+## 🔑 Key Concepts  
+
+### 🏗 Fundamental Memory Principles  
+1️⃣ **Association** – Link information to images.  
+2️⃣ **Imagination** – Create vivid mental images to enhance recall.  
+3️⃣ **Location** – Memory improves when linked to a specific space.  
+
+📌 *Memory works best with visual, creative, and structured associations.*  
+
+---
+
+## 🎨 The 12 Memory Techniques  
+
+✅ **Enhance memory through:**  
+- 👀 **Senses** – Enhance sensory perception.  
+- 🔄 **Movement** – Use dynamic images.  
+- 🔗 **Association** – Link related items.  
+- 😂 **Humor** – Add fun to increase recall.  
+- 💭 **Imagination** – Foster creative visualization.  
+- 🎭 **Symbolism** – Utilize symbols or metaphors.  
+- 🎨 **Color** – Vibrant colors boost memory.  
+- 📏 **Order/Sequence** – Maintain a structured flow.  
+- 🤯 **Exaggeration** – Make details stand out.  
+- 🔢 **Numbers** – Pair information with numbers.  
+- ✨ **Positive Images** – Focus on uplifting imagery.  
+- 🔥 **Sexuality** – Engages attention when applicable.  
+
+📢 *Techniques like vibrant colors, humor, and exaggeration significantly improve memory retention!*  
+
+---
+
+## 🗝 **Key Word or Key Image**  
+🔹 A **fixed, visualizable key word or image** serves as a memory anchor.  
+🔹 **It must be VIP** (Visualizable, Impactful, and Pictorial).  
+
+---
+
+## 🔗 12 Ways to Connect Associations  
+📍 **How to reinforce memory through association:**  
+1️⃣ Crashing things 🚗💥  
+2️⃣ Sticking them together 🩹  
+3️⃣ Placing one on top of another 📚  
+4️⃣ Placing one under another 🔽  
+5️⃣ Putting one inside another 🎁  
+6️⃣ Substituting one for another 🔄  
+7️⃣ Placing things in a new context 🌍  
+8️⃣ Weaving things together 🧵  
+9️⃣ Wrapping them up 🎀  
+🔟 Making them talk 💬  
+1️⃣1️⃣ Making them dance 💃  
+1️⃣2️⃣ Sharing color, aroma, or action 🎨👃🎬  
+
+---
+
+## 🎯 Conclusion  
+✔ **Effective memorization relies on creative and structured associations.**  
+✔ **Using images, colors, and exaggeration strengthens memory.**  
+✔ **These techniques make it easier to recall more information with less effort.**  
+
+
+
