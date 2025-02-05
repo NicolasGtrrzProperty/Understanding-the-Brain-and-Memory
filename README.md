@@ -81,6 +81,9 @@ The course begins by assessing different skills.
    - Example: **45-minute study + 15-minute break** enhances absorption.  
 
 🔹 **Strategic Review Intervals:**  
+
+<img align="right" width="130px" alt="bright" hspace="50" src="calendar.svg" />
+
    - 🕒 **Immediately after learning.**  
    - 📅 **1 day later.**  
    - 📅 **1 week later.**  
