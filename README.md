@@ -103,8 +103,3 @@ The course begins by assessing different skills.
 ✔ Memory can be **trained and improved** with the right techniques.  
 ✔ **Spaced repetition and structured study** are key to retention.  
 ✔ **Balancing memory and understanding** enhances learning efficiency.  
-
-
-📢 **Final Tip!**  
-📚 **Regular reviews significantly improve long-term knowledge retention.** 🔄✨
-
