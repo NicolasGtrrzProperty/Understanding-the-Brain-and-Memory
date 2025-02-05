@@ -85,17 +85,13 @@ The course begins by assessing different skills.
    - 📅 **1 month later.**  
    - 📅 **3 months later.**  
 
-🔹 **The importance of repeated recall**  
-   - Moves information from **short-term memory** to **long-term memory**.
-
-
-### 🛠 **Memory Techniques and Systems**  
+#  Memory Techniques and Systems 🛠
 
 🔹 **Techniques:** Practical methods developed through experience to improve retention.  
 🔹 **Systems:** Structured combinations of techniques to optimize memory.  
 
 
-### 🎯 **Conclusion**  
+#  Conclusion 🎯
 ✔ Memory can be **trained and improved** with the right techniques.  
 ✔ **Spaced repetition and structured study** are key to retention.  
 ✔ **Balancing memory and understanding** enhances learning efficiency.  
