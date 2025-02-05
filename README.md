@@ -72,7 +72,7 @@ The course begins by assessing different skills.
 
 ✅ **Key to improving memory:** Strengthen **Principles 3, 5, and 6**.
 
-### ⏳ **Optimizing Learning**  
+#  Optimizing Learning  ⏳
 
 🔹 **Study Fragmentation:**  
    - Alternate study and rest periods for better retention.  
