@@ -82,6 +82,8 @@ The course begins by assessing different skills.
 
 🔹 **Strategic Review Intervals:**  
 
+
+<img align="right" width="130px" alt="bright" hspace="150" src="career.svg" />
 <img align="right" width="130px" alt="bright" hspace="50" src="calendar.svg" />
 
    - 🕒 **Immediately after learning.**  
