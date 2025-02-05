@@ -134,6 +134,8 @@ Explores key memory principles, effective association techniques, and strategies
 
 ## 🎨 The 12 Memory Techniques  
 
+<img align="right" width="130px" alt="bright" hspace="50" src="painting.svg" />
+
 ✅ **Enhance memory through:**  
 - 👀 **Senses** – Enhance sensory perception.  
 - 🔄 **Movement** – Use dynamic images.  
