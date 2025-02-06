@@ -133,23 +133,20 @@ Explores key memory principles, effective association techniques, and strategies
 ---
 
 ## 🎨 The 12 Memory Techniques  
-
-<img align="right" width="130px" alt="bright" hspace="50" src="painting.svg" />
-<img align="right" width="130px" alt="bright" hspace="50" src="challenge-idea.svg" />
-
 ✅ **Enhance memory through:**  
-- 👀 **Senses** – Enhance sensory perception.  
+- 👀 **Senses** – Enhance sensory perception.  <img align="right" width="130px" alt="bright" hspace="50" src="painting.svg" />
 - 🔄 **Movement** – Use dynamic images.  
 - 🔗 **Association** – Link related items.  
 - 😂 **Humor** – Add fun to increase recall.  
 - 💭 **Imagination** – Foster creative visualization.  
 - 🎭 **Symbolism** – Utilize symbols or metaphors.  
 - 🎨 **Color** – Vibrant colors boost memory.  
-- 📏 **Order/Sequence** – Maintain a structured flow.  
+- 📏 **Order/Sequence** – Maintain a structured flow. <img align="right" width="130px" alt="bright" hspace="50" src="challenge-idea.svg" /> 
 - 🤯 **Exaggeration** – Make details stand out.  
 - 🔢 **Numbers** – Pair information with numbers.  
 - ✨ **Positive Images** – Focus on uplifting imagery.  
-- 🔥 **Sexuality** – Engages attention when applicable.  
+- 🔥 **Sexuality** – Engages attention when applicable.
+
 
 📢 *Techniques like vibrant colors, humor, and exaggeration significantly improve memory retention!*  
 
