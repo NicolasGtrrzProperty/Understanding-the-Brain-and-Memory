@@ -165,7 +165,7 @@ Explores key memory principles, effective association techniques, and strategies
 3️⃣ Placing one on top of another 📚  
 4️⃣ Placing one under another 🔽  
 5️⃣ Putting one inside another 🎁  
-6️⃣ Substituting one for another 🔄  
+6️⃣ Substituting one for another 🔄  <img align="right" width="170px" alt="bright" hspace="50" src="partnerships.svg" /> 
 7️⃣ Placing things in a new context 🌍  
 8️⃣ Weaving things together 🧵  
 9️⃣ Wrapping them up 🎀  
