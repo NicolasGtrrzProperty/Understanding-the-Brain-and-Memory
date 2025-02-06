@@ -160,9 +160,10 @@ Explores key memory principles, effective association techniques, and strategies
 
 ## 🔗 12 Ways to Connect Associations  
 📍 **How to reinforce memory through association:**  
+<img align="right" width="130px" alt="bright" hspace="50" src="partnerships.svg" /> 
 1️⃣ Crashing things 🚗💥  
 2️⃣ Sticking them together 🩹  
-3️⃣ Placing one on top of another 📚  <img align="right" width="230px" alt="bright" hspace="240" src="partnerships.svg" /> 
+3️⃣ Placing one on top of another 📚  
 4️⃣ Placing one under another 🔽  
 5️⃣ Putting one inside another 🎁  
 6️⃣ Substituting one for another 🔄  
