@@ -162,16 +162,16 @@ Explores key memory principles, effective association techniques, and strategies
 📍 **How to reinforce memory through association:**  
 1️⃣ Crashing things 🚗💥  
 2️⃣ Sticking them together 🩹  
-3️⃣ Placing one on top of another 📚  
+3️⃣ Placing one on top of another 📚  <img align="right" width="230px" alt="bright" hspace="240" src="partnerships.svg" /> 
 4️⃣ Placing one under another 🔽  
 5️⃣ Putting one inside another 🎁  
-6️⃣ Substituting one for another 🔄  <img align="right" width="170px" alt="bright" hspace="50" src="partnerships.svg" /> 
+6️⃣ Substituting one for another 🔄  
 7️⃣ Placing things in a new context 🌍  
 8️⃣ Weaving things together 🧵  
 9️⃣ Wrapping them up 🎀  
 🔟 Making them talk 💬  
 1️⃣1️⃣ Making them dance 💃  
-1️⃣2️⃣ Sharing color, aroma, or action 🎨👃🎬  
+1️⃣2️⃣ Sharing color, aroma 🎨👃  
 
 ---
 
